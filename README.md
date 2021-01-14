@@ -12,7 +12,7 @@ You will need a mac computer, xcode app and as optional physical iPhone.
 
 
 <div align="left">
-    <img src="hhttps://github.com/VladimirZhdanov/Xylophone/blob/master/images/IMG_E64EAB8DF68E-1.jpeg" width="200px"</img> 
+    <img src="https://github.com/VladimirZhdanov/Xylophone/blob/master/images/IMG_0326.PNG" width="200px"</img> 
 </div>
 
 ## A few words
